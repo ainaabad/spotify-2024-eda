@@ -1,0 +1,10 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS/IDE files
+.DS_Store
+.vscode/
+
+# Data (don’t version large files)
+data/*
+!data/README.md
