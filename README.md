@@ -23,6 +23,10 @@ Open the notebook `notebooks/# Most Streamed Spotify Songs 2024 — EDA
 
 **One-liner:** Exploratory Data Analysis of the most streamed songs on Spotify in 2024.
 
+## Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ainaabad/spotify-2024-eda/blob/main/notebooks/spotify-2024-eda.ipynb)
+
 ## Context
 This project was developed as part of the **Data Science Bootcamp at CodeOp**.  
 
